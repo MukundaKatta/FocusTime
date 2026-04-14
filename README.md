@@ -1,6 +1,6 @@
 # FocusTime — Pomodoro + AI task scheduling — energy-aware planning, smart task suggestion, productivity stats
 
-Pomodoro + AI task scheduling — energy-aware planning, smart task suggestion, productivity stats. FocusTime gives you a focused, inspectable implementation of that idea.
+Pomodoro + AI task scheduling — energy-aware planning, smart task suggestion, productivity stats.
 
 ## Why FocusTime
 
